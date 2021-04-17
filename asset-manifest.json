@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/reactnativeapp/static/js/app.51a1d0d5.chunk.js",
+    "app.js.map": "/reactnativeapp/static/js/app.51a1d0d5.chunk.js.map",
+    "runtime~app.js": "/reactnativeapp/static/js/runtime~app.ac9cba3a.js",
+    "runtime~app.js.map": "/reactnativeapp/static/js/runtime~app.ac9cba3a.js.map",
+    "static/js/2.3941a4ee.chunk.js": "/reactnativeapp/static/js/2.3941a4ee.chunk.js",
+    "static/js/2.3941a4ee.chunk.js.map": "/reactnativeapp/static/js/2.3941a4ee.chunk.js.map",
+    "favicon-16.png": "/reactnativeapp/favicon-16.png",
+    "favicon-32.png": "/reactnativeapp/favicon-32.png",
+    "favicon.ico": "/reactnativeapp/favicon.ico",
+    "index.html": "/reactnativeapp/index.html",
+    "manifest.json": "/reactnativeapp/manifest.json",
+    "serve.json": "/reactnativeapp/serve.json",
+    "static/js/2.3941a4ee.chunk.js.LICENSE.txt": "/reactnativeapp/static/js/2.3941a4ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.ac9cba3a.js",
+    "static/js/2.3941a4ee.chunk.js",
+    "static/js/app.51a1d0d5.chunk.js"
+  ]
+}
